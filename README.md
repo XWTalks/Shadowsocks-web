@@ -6,3 +6,5 @@ llout.com的Shadowsocks网站前端模板
 <li>图片</li>
 <li>套餐信息</li>
 <li>版权信息</li>
+
+可修改index.html 中关联css文件更换主题颜色。
